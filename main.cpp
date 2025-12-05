@@ -3,3 +3,7 @@
 int main(){
 	cout << "hello world""<< endl;
 }
+
+float minestrina (){
+	return x;
+}
