@@ -1,6 +1,6 @@
 // Programa d'informatica
 // Attenzione questo file è a solo scopo istituzionale
-
+// modificare da pushare
 
 int main(){
 	int a = 0;
